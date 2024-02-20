@@ -1,5 +1,3 @@
-Sure, here's a sample README.md file for your FakeNews_Detector_Python_ML GitHub repository:
-
 ---
 
 # Fake News Detector using Python and Machine Learning
