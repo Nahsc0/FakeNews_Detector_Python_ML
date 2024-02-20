@@ -1,3 +1,6 @@
+![Workflow](https://github.com/Nahsc0/FakeNews_Detector_Python_ML/assets/106038656/c9bd13ea-c111-4976-be45-a86c7f2e3ea2)
+
+
 ---
 
 # Fake News Detector using Python and Machine Learning
